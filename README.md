@@ -1,3 +1,5 @@
+**NAME: SAMEER HUSSAIN**
+
 ****iPhone Calculator Clone - Flutter****
 
 This project is a Flutter application that aims to recreate the user interface and functionality of the iPhone calculator app specifically tailored to the dimensions of iPhone 12 Pro.
