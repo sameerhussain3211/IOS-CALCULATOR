@@ -84,10 +84,8 @@ class _loginScreenState extends State<homeScreen> {
   void _refresh() {
     setState(() {});
   }
- 
 
   Widget build(BuildContext context) {
-     
     return Scaffold(
       backgroundColor: const Color.fromARGB(243, 0, 0, 0),
       body: SafeArea(

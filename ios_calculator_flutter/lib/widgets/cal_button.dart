@@ -27,11 +27,11 @@ class cal_button extends StatelessWidget {
         ),
         minimumSize: Size(buttonLength, 50),
       ),
-      child:  Text(
-          buttonText,
-          textAlign: TextAlign.left,
-          style: const TextStyle(fontSize: 50),
-        ),
+      child: Text(
+        buttonText,
+        textAlign: TextAlign.left,
+        style: const TextStyle(fontSize: 50),
+      ),
     );
   }
 }
